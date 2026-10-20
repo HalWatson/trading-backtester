@@ -1,0 +1,12 @@
+Metric,Value
+Completed Trades,10.0
+Winning Trades,6.0
+Losing Trades,4.0
+Win Rate,0.6
+Average Trade Return,0.045178394819299986
+Average Winning Trade,0.11369134098893659
+Average Losing Trade,-0.05759102443515493
+Sum of Winning Trade Returns,0.6821480459336196
+Sum of Absolute Losing Trade Returns,0.23036409774061972
+Profit Factor,2.961173432075729
+Expectancy per Trade,0.045178394819299986
